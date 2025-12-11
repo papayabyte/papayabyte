@@ -13,10 +13,9 @@ Learning Goals:
 - Deepen my understanding of reverse engineering and malware analysis.
 - Gain experience with advanced forensic tools and techniques.
 
-🔍 Feel free to check out my repositories for cybersecurity challenges, forensics tools, and other security-related projects!
+Feel free to check out my repositories for the projects i've been working on throughout my studies.
 
-💬 Let’s Connect:
+Let’s Connect:
 
-[LinkedIn](Your LinkedIn URL)
-
-[Twitter](Your Twitter URL)
+[LinkedIn](linkedin.com/)
+[Personal Site](adamduker.co.uk)
