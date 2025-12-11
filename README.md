@@ -3,7 +3,7 @@
 Level 4 Cyber Security and Digital Forensics Student.
 
 Currently pursuing my studies at [Leeds Beckett University](https://www.leedsbeckett.ac.uk/). Passionate about protecting digital infrastructures, ethical hacking, and uncovering digital evidence.
-My current semester include; Computer Programming, Fundamentals of Digital Forensics and Computer Communications.
+My current semester includes; Computer Programming, Fundamentals of Digital Forensics and Computer Communications.
 
 Languages: Python
 Tools: Wireshark, Autopsy, FTK Imager
