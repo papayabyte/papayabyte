@@ -6,7 +6,7 @@ Currently pursuing my studies at [Leeds Beckett University](https://www.leedsbec
 My current semester includes; Computer Programming, Fundamentals of Digital Forensics and Computer Communications.
 
 Languages: Python, Java
-
+<br>
 Tools: Wireshark, Autopsy, FTK Imager, Kali Linux, Oracle Apex, 
 
 Learning Goals:
